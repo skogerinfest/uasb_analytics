@@ -19,7 +19,7 @@ El archivo se obtuvo de un dataset de github el cual se puede encontrar en vario
 Adiocionalemente se trabajo en los datos un poco para poder obtener otros datos que se puedan evaluar mas facilmente, por el inconveniente que los datos
 de origen son en su mayoria texto.
 
-y se genero otro csv con el nombre de 
+y se genero otro csv con el nombre de panamapapers.csv
 
 ###Información de la fuente
  **Toda la informacion de la fuente**

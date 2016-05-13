@@ -22,7 +22,7 @@ Paises que aparecen de Sud America
 3.Colombia
 4.Brasil
 
-
+![alt text](https://github.com/skogerinfest/uasb_analytics/blob/master/analisis1.png "Power Players Por Ciudad")
 
 
 
